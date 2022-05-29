@@ -1,2 +1,2 @@
-# EasyBiller
+# BillFast Lite
 Facturador simple
